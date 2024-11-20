@@ -1,0 +1,26 @@
+{
+  "name": "file-organizer",
+  "version": "1.0.0",
+  "description": "A file organizer with drag-and-drop support.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swanaya/file-organizer.git"
+  },
+  "keywords": [
+    "file"
+  ],
+  "author": "ketivee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swanaya/file-organizer/issues"
+  },
+  "homepage": "https://github.com/swanaya/file-organizer#readme",
+  "dependencies": {
+    "file-organizer": "file:"
+  }
+}
